@@ -1,0 +1,9 @@
+Box2D
+pygame
+pygame_gui
+pyglet
+numpy
+scikit-image
+sympy
+opencv-python
+shapely
